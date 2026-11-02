@@ -13,6 +13,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Philip Wintrip — Slimme SaaS, Websites &amp; Automatisering voor MKB &amp; Coaches</title>
     <meta name="description" content="Kies jouw online oplossing: 24/7 MKB Website &amp; Contactformulier Bewaking, ContentBoost Studio voor automatische nieuwsbrieven en LinkedIn-reeksen, of een op maat gemaakte website voor het spiritueel vlak.">
+    <link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
+    <link rel="alternate icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect x='3' y='3' width='58' height='58' rx='15' fill='%230f172a' stroke='%2310b981' stroke-width='4'/><text x='30' y='41' text-anchor='middle' fill='%23ffffff' font-family='sans-serif' font-weight='900' font-size='25'>PW</text><circle cx='50' cy='15' r='4.5' fill='%23f59e0b'/></svg>">
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
         /* Subtiele technisch-architecturale grid-overlay bovenop de achtergrondafbeelding */

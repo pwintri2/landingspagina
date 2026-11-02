@@ -95,6 +95,7 @@ landingspagina/
 ├── index.html                        # Centrale landingspagina (HTML5 + Tailwind CSS)
 ├── index.php                         # Identieke PHP-entrypoint voor directe webhost-plaatsing
 ├── assets/
+│   ├── favicon.svg                   # Vector favicon (PW monogram in Emerald/Indigo/Amber)
 │   ├── hero-banner.png               # Overzichtsbanner (3 producten) voor GitHub README
 │   ├── hero-bg.png                   # Gelaagde dark-slate infrastructuur achtergrond
 │   ├── mkb-uptime-preview.png        # 3D UI-visual voor MKB Uptime & FormulierWacht
