@@ -449,5 +449,6 @@
         </div>
     </footer>
 
+    <script src="assets/wintrip-guide.js" data-wintrip-site="landingspagina" defer></script>
 </body>
 </html>
